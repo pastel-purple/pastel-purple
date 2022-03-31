@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pastel-purple
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: you don't need to reach me because i am a newbie.
 
 <!---
